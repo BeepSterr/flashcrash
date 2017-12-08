@@ -1,0 +1,16 @@
+{
+  "name": "flashtrainer",
+  "version": "1.0.0",
+  "description": "Exists your csgo process when you get hit fully by a flashbang",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nioxed",
+  "license": "ISC",
+  "dependencies": {
+    "node-cmd": "^3.0.0",
+    "ps": "0.0.2",
+    "robotjs": "^0.4.7"
+  }
+}
